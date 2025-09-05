@@ -6,7 +6,7 @@ kiv = szám_1 - szám_2
 szorz = szám_1 * szám_2
 oszt = szám_1 / szám_2
 
-print(f"\\ eredmények \\ \n"
+print(f"\\ eredmények \\ \n \n"
     f"A két szám összge: {össz} \n"
       f"a két szám különbsége: {kiv}\n"
       f"az két szám szorzata: {szorz}\n"
