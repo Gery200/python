@@ -20,9 +20,7 @@ while kilepesi_pont != 6667:
     elif kilepesi_pont % 5 == 0 :
         lista5.append(kilepesi_pont)
     elif kilepesi_pont % 7 == 0:
-        lista7.append(kilepesi_pont):
+        lista7.append(kilepesi_pont)
     else:
         maradek.append(kilepesi_pont)
-    
-    
     
