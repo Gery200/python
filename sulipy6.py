@@ -32,6 +32,7 @@ print(f"a paratlan szamok visszafele 1 és 10 kozott: {nemoszt2}")
 #########################################################################
 
 word = str(input("kérem az adott szöveget: "))
+word2 = int(input("hanyszor irjam ki: "))
 word1 = True
 
 while word1:
