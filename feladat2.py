@@ -24,3 +24,11 @@ while kilepesi_pont != 6667:
     else:
         maradek.append(kilepesi_pont)
     
+<<<<<<< HEAD
+=======
+    
+    print(f"A 3-mal osztahto oszthato szamok \n {lista3} \n"
+          f"Az 5-el osztahto szamok \n {lista5} \n"
+          f"A 7-el osztahto szamok \n {lista7} \n"
+          f"a maradék számok \n {maradek}")
+>>>>>>> 17a253e84a1f2026879a1e2295e4f987bd3f8810
