@@ -14,3 +14,4 @@ for x in range (5000):
 #lista bejarasa
 for x in szamlista:
     print(x, sep="")
+    
