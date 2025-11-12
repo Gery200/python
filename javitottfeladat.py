@@ -15,8 +15,3 @@ o3 = int(input("harmadik oszto: "))
 o4 = int(input("nefgyedik oszto: "))
 o5 = int(input("otodik oszto: "))
 
-lista1 = 
-lista2 = 
-lista3 = 
-lista4 =
-lista5 =
