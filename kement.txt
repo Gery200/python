@@ -1,0 +1,2 @@
+
+ ezek az a betuvel kezdodo szavak: ['amet', 'aliquet', 'ante,', 'aliquam,', 'at', 'arcu', 'ac', 'ac', 'ac', 'a', 'at', 'aliquam', 'at', 'arcu.', 'aliquam.', 'amet,', 'adipiscing', 'auctor', 'accumsan', 'auctor', 'arcu', 'aliquam', 'at.', 'augue,', 'ac', 'auctor.', 'accumsan', 'auctor.', 'ante', 'ac', 'amet', 'a', 'ac', 'ac']

@@ -1,0 +1,1 @@
+ HArom karakterbol all: ['Sed', 'sit', 'sed', 'nec', 'Sed', 'vel', 'Sed', 'hac', 'sem', 'nec', 'Nam', 'leo', 'nec', 'leo', 'sed', 'leo', 'sed', 'nec', 'est', 'sit', 'Sed', 'Sed', 'sed', 'sed', 'vel', 'Sed', 'vel', 'est', 'vel', 'Sed', 'vel', 'sed', 'nec', 'est', 'sem', 'sit', 'nec', 'vel', 'sem', 'nec', 'nec']
