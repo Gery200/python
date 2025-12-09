@@ -1,0 +1,4 @@
+
+ 
+ A sorsolt szamok listaja: [29, 78, 15, 21, 66]  
+ A kettővel osztahtó számok listaja: [78, 66]

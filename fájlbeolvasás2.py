@@ -1,15 +1,13 @@
-with open('./forras1.txt' , 'r' , encoding='utf-8') as adatfolyam:
+with open('./forras6.txt' , 'r' , encoding='utf-8') as adatfolyam:
     tartalom = adatfolyam.read()
     
-szöveglista = list(map(str, tartalom.strip().split(" ")))
+szöveglista = list(map(str, tartalom.strip(" ").split(" ")))
 
 szöveglista = [szó.strip(".,") for szó in szöveglista] # eltávplítja a szó végéről és elejéről 
 
 szöveglista = [szó.rstrip(".,") for szó in szöveglista] #a rear strip csak a végéről törli
 
-for szó in szöveglista:
-    if szó[-1] == "." or szó[-1] == ",":
-        pass
+
 
 #print(szamok)
 
